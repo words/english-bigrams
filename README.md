@@ -2,6 +2,20 @@
 
 Letter pairs sorted by how frequently they appear in English words
 
+```js
+{
+  es: 60365,
+  in: 51816,
+  er: 49978,
+  ti: 37946,
+  // ...
+  xz: 0,
+  zf: 0,
+  zr: 0,
+  zx: 0
+}
+```
+
 ## Installation
 
 This is a [Node.js](https://nodejs.org/) module available through the 
